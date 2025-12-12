@@ -77,10 +77,6 @@ Dashboards include:
 - Build behavior-based segmentation  
 - Implement seasonal rules (holiday spike)  
 
----
-
-## 🤝 Contributions
-Open to improvements, additional ML models, automation scripts, and dashboard enhancements.
 
 ---
 
